@@ -1,1 +1,2 @@
-s new to me
+this new to me
+this from remote repostry to an local repostry
